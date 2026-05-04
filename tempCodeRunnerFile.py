@@ -1,0 +1,1 @@
+calculator_icon.png
